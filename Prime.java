@@ -14,7 +14,6 @@ class Prime {
             }
             if (count == 2) {
                 System.out.print(i + " ");
-                c++;
             }
         }
     }
